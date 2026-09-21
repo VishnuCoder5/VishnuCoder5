@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Vishnuraj%20V&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20.NET%20%7C%20React%20%7C%20Node.js&descAlignY=60&descSize=20"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:3A1600,35:D85B00,70:F28C00,100:FFD166&height=220&section=header&text=Vishnuraj%20V&fontSize=55&fontColor=FFF8E7&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20.NET%20%7C%20React%20%7C%20Node.js&descAlignY=60&descSize=20&descColor=FFF4DC"
     alt="Vishnuraj V - Full Stack Developer"
     width="100%"
   />
@@ -10,10 +10,17 @@
 
 <p align="center">
   <a href="https://github.com/vishnuvarCode">
-    <img src="https://img.shields.io/badge/GitHub-vishnuvarCode-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img
+      src="https://img.shields.io/badge/GitHub-vishnuvarCode-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
+
   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
 </p>
 
@@ -30,10 +37,12 @@ I'm **Vishnuraj V**, a **Full Stack Developer** with **3.7+ years of professiona
 My primary development experience includes:
 
 - ⚛️ **React.js, Next.js & TypeScript** for modern frontend applications
-- ⚙️ **ASP.NET / C#** for backend services and RESTful APIs
+- ⚙️ **ASP.NET / .NET / C#** for backend services and RESTful APIs
 - 🟢 **Node.js & Express.js** for server-side development
-- 🗄️ **SQL Server** for database design, queries and performance optimization
-- 🔐 **JWT / OAuth** based authentication and authorization
+- 🗄️ **SQL Server & MySQL** for database design, queries and performance optimization
+- 🔧 **Knex.js** for database queries and migrations
+- 🔴 **Redis** for caching and performance-focused backend solutions
+- 🔐 **JWT / OAuth / Two-Factor Authentication** for secure authentication
 - 🔄 **REST API** development and integration
 - 🛠️ **Git & GitHub** for version control and collaborative development
 
@@ -76,12 +85,29 @@ I focus on writing **clean, maintainable code**, building reusable components, i
   <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" alt="REST API"/>
 </p>
 
-## Database
+## Database & Data Layer
 
 <p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/Knex.js-D26B38?style=for-the-badge&logo=knexdotjs&logoColor=white" alt="Knex.js"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Database_Migrations-D97706?style=for-the-badge" alt="Database Migrations"/>
   <img src="https://img.shields.io/badge/Stored_Procedures-CC2927?style=for-the-badge" alt="Stored Procedures"/>
   <img src="https://img.shields.io/badge/Query_Optimization-1F6FEB?style=for-the-badge" alt="Query Optimization"/>
+  <img src="https://img.shields.io/badge/Caching-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Caching"/>
+</p>
+
+## Authentication & Security
+
+<p>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+  <img src="https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge&logo=auth0&logoColor=white" alt="OAuth"/>
+  <img src="https://img.shields.io/badge/Two--Factor_Authentication-2FA-D97706?style=for-the-badge" alt="Two-Factor Authentication"/>
+  <img src="https://img.shields.io/badge/Authorization-7C3AED?style=for-the-badge" alt="Authorization"/>
 </p>
 
 ## Tools & Development
@@ -92,6 +118,7 @@ I focus on writing **clean, maintainable code**, building reusable components, i
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/>
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </p>
 
 ---
@@ -100,8 +127,10 @@ I focus on writing **clean, maintainable code**, building reusable components, i
 
 ```text
 Frontend       → React.js • Next.js • TypeScript • Redux • Vite
-Backend        → ASP.NET • C# • Node.js • Express.js
+Backend        → ASP.NET • .NET • C# • Node.js • Express.js
 APIs           → REST • Authentication • Authorization • JWT • OAuth
-Database       → SQL Server • Queries • Stored Procedures • Optimization
-Engineering    → Git • GitHub • API Testing • Debugging • Performance
+Security       → Two-Factor Authentication • Secure API Access
+Database       → MySQL • SQL Server • Knex.js • Migrations
+Caching        → Redis • Performance Optimization
+Engineering    → Git • GitHub • API Testing • Debugging
 Architecture   → Maintainable • Scalable • Reusable • Responsive
